@@ -1,0 +1,7 @@
+mcrp/llc/blacklist/config/BlacklistConfig.class
+mcrp/llc/blacklist/enums/Status$1.class
+mcrp/llc/blacklist/util/Search.class
+mcrp/llc/blacklist/enums/Status.class
+mcrp/llc/blacklist/enums/Context.class
+mcrp/llc/blacklist/Blacklist.class
+mcrp/llc/blacklist/listeners/ChatListener.class
